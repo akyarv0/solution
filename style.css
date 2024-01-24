@@ -1,0 +1,256 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.container1 {
+  height: 100vh;
+  width: 100%;
+  background-image: url("bg.jpg");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  position: relative;
+  opacity: 0.7;
+}
+
+.clarusway {
+  font-size: 2rem;
+  text-align: center;
+  font-family: "Lato", sans-serif;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  line-height: 1.8rem;
+  border: 2px solid black;
+  padding: 2rem 2rem 2rem 2rem;
+  background-color: black;
+  color: white;
+  border-top-left-radius: 2rem;
+  border-bottom-right-radius: 2rem;
+  outline: 0.5rem inset purple;
+  outline-offset: 2rem;
+  letter-spacing: 1rem;
+}
+
+.dev {
+  height: 40vh;
+  width: 100%;
+  position: relative;
+  text-align: center;
+  background-color: #f1f1f1;
+  color: #666666;
+}
+
+.fsdev1 {
+  position: absolute;
+  text-align: center;
+  font-family: "Lato", sans-serif;
+  font-size: 1.2rem;
+  line-height: 1.8rem;
+  margin: 16px 16px 16px 16px;
+}
+
+.fsdev1 > h4 {
+  font-size: 1.5rem;
+  margin-bottom: 1rem;
+  margin-top: 3rem;
+}
+
+.container2 {
+  height: 100vh;
+  width: 100%;
+  background-image: url("bg2.jpg");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  position: relative;
+  opacity: 0.7;
+}
+
+.imgclw {
+  height: auto;
+  width: 30%;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.AWS {
+  height: 40vh;
+  width: 100%;
+  position: relative;
+  text-align: center;
+  background-color: rgba(0, 0, 0, 0.377);
+  color: rgb(37, 37, 37);
+}
+
+.fsdev2 {
+  position: absolute;
+  text-align: center;
+  font-family: "Lato", sans-serif;
+  font-size: 1.2rem;
+  line-height: 1.8rem;
+  margin: 16px 16px 16px 16px;
+}
+
+.fsdev2 > h2 {
+  font-size: 1.5rem;
+  margin-bottom: 1rem;
+  margin-top: 4rem;
+}
+
+.container3 {
+  height: 100vh;
+  width: 100%;
+  background-image: url("bg3.jpg");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  position: relative;
+  opacity: 0.7;
+}
+
+.imgAWS {
+  height: auto;
+  width: 30%;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.wayto {
+  font-size: 28px;
+  text-align: center;
+  font-family: "Lato", sans-serif;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  line-height: 1.8rem;
+  border: 2px solid black;
+  padding: 2rem 2rem 2rem 2rem;
+  background-color: black;
+  color: white;
+  border-top-left-radius: 2rem;
+  border-bottom-right-radius: 2rem;
+  outline: 0.5rem inset purple;
+  outline-offset: 2rem;
+  letter-spacing: 8px;
+}
+
+.data {
+  height: 40vh;
+  width: 100%;
+  position: relative;
+  text-align: center;
+  background-color: #f1f1f1;
+  color: #666666;
+}
+
+.fsdev3 {
+  position: absolute;
+  text-align: center;
+  font-family: "Lato", sans-serif;
+  font-size: 1.2rem;
+  line-height: 1.8rem;
+}
+
+.fsdev3 > h2 {
+  font-size: 1.5rem;
+  margin-bottom: 1rem;
+  margin-top: 5rem;
+}
+
+.container4 {
+  height: 100vh;
+  width: 100%;
+  background-image: url("bg4.jpg");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  position: relative;
+  opacity: 0.7;
+}
+
+.why {
+  height: 40vh;
+  width: 100%;
+  position: relative;
+  text-align: center;
+  background-color: rgba(0, 0, 0, 0.377);
+}
+
+.fsdev4 {
+  position: absolute;
+  text-align: center;
+  font-family: "Lato", sans-serif;
+  font-size: 1.2rem;
+  line-height: 1.8rem;
+ 
+  opacity: 0.7;
+  padding: 0rem 2rem 2rem 2rem;
+}
+
+.fsdev4 > h2 {
+  font-size: 1.5rem;
+  margin-bottom: 1rem;
+  margin-top: 5rem;
+}
+
+.container5 {
+  height: 100vh;
+  width: 100%;
+  background-image: url("bg.jpg");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  position: relative;
+  opacity: 0.7;
+}
+
+.choose {
+  font-size: 28px;
+  text-align: center;
+  font-family: "Lato", sans-serif;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  line-height: 1.8rem;
+  border: 2px solid black;
+  padding: 2rem 2rem 2rem 2rem;
+  background-color: black;
+  color: white;
+  border-top-left-radius: 2rem;
+  border-bottom-right-radius: 2rem;
+  outline: 0.5rem inset purple;
+  outline-offset: 2rem;
+  letter-spacing: 8px;
+}
+
+/* Responsive styles */
+@media only screen and (max-width: 768px) {
+  .header {
+    font-size: 24px;
+  }
+
+  /* Add more responsive styles as needed */
+}
+
+@media only screen and (max-width: 480px) {
+  .header {
+    font-size: 20px;
+  }
+
+  /* Add more responsive styles as needed */
+}
